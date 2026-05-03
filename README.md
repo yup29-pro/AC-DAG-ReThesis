@@ -192,7 +192,7 @@ ac-dag-rethesis/
 ```bibtex
 @misc{acdags2026,
   title     = {Adaptive Context DAGs: Graph-Guided Multi-Modal Context Injection for Long-Horizon LLM Reasoning},
-  author    = {Yashwanth R, Mohammad Ayaan Adil Ahmed},
+  author    = {Yashwanth R, Mohammed Ayaan Adil Ahmed},
   year      = {2026},
   note      = {ReThesis: AI Research Blitz, Ascent Techfest, Scaler School of Technology}
 }
