@@ -203,5 +203,6 @@ ac-dag-rethesis/
 ## Contact
 
 **Yashwanth R** — ryashwanth429@gmail.com  
-**Mohammand Ayaan Adil Ahmed** — m.ayaan.a.ahmed@gmail.com
+**Mohammed Ayaan Adil Ahmed** — m.ayaan.a.ahmed@gmail.com
+
 ReThesis: AI Research Blitz | Ascent Techfest 2026
